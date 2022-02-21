@@ -1,0 +1,10 @@
+.recall-tittle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.recall-amount {
+    font-size: 20px;
+    color: #8a8a8a;
+    margin: 0.83em 0;
+}

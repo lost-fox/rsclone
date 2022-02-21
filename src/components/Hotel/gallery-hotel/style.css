@@ -1,0 +1,27 @@
+.collage {
+    display: flex;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.collage-right {
+    width: 65%;
+}
+
+.collage-left {
+    width: 35%;
+}
+
+.collage-img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.collage-img_right {
+    height: 100%;
+}
+
+.collage-img_left {
+    height: 50%;
+}
